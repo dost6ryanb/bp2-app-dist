@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81af23d4aea1d2c8b6c2",
-    "url": "/css/app.1231a5aa.css"
+    "revision": "ce48ceaaab7e192f00af",
+    "url": "/css/app.b4ed28b8.css"
   },
   {
     "revision": "88a39d5a418529b5a6a7",
@@ -296,12 +296,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/rain-torrential_now.898523e1.png"
   },
   {
-    "revision": "9f4a56278f841674f2b3231578f794c7",
+    "revision": "a2e300736952c0efdfc378078050f5ab",
     "url": "/index.html"
   },
   {
-    "revision": "81af23d4aea1d2c8b6c2",
-    "url": "/js/app.2fcfc577.js"
+    "revision": "ce48ceaaab7e192f00af",
+    "url": "/js/app.2152828f.js"
   },
   {
     "revision": "88a39d5a418529b5a6a7",
